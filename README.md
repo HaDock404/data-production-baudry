@@ -8,9 +8,7 @@ This is my presentation of improving the logistical flow of pallets in an indust
 
 The goal of this project is to demonstrate, using proven metrics and robust data analysis techniques, how data utilization in an industrial environment can lead to significant improvements in production processes. Through in-depth analysis and effective evaluation tools, this project aims to illustrate the direct impact of data analysis on operational efficiency and profitability. By identifying optimization opportunities and highlighting areas for improvement, we show how leveraging data can generate substantial and sustainable value for the business.  
 
-[![image](./documentation/image1.png)]
-
-  
+![image](./documentation/image1.png)
 
 ## Table of Contents
 
