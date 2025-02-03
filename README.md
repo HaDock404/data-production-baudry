@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-This is my presentation of improving the logistical flow of pallets in an industrial production workshop in order to improve their transitions and their uses at different workstations..   
+This is my presentation of improving the logistical flow of pallets in an industrial production workshop in order to improve their transitions and their uses at different workstations.   
 
 ## Description  
 
